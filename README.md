@@ -7,7 +7,7 @@
 <br /> 
 <h2>🤔 About <br> 
 
-* Learning :Full-Stack :zap: | Open-Source :fire:
+* Learning :Full-Stack development:zap: | Open-Source :fire:
 
 * Fun fact: Computers fascinate me more than humans ! :v:
 
@@ -56,6 +56,6 @@ console.log(`Feel free to contribute`);
   <strong>Happy Coding</strong> ❤️
   </p>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
