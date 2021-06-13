@@ -18,7 +18,7 @@ Manideep = {
   pronouns: "He" / "his";
   code: [ C, HTML(Begineer) ];
   hobbies: ["VideoGames", "Coding"];
-  how-to-reach-me: ["Step 1:Start a java vs python argument"
+  how-to-reach-me: ["Step 1:Start a Android dev vs Web dev argument"
                 "Step 2: Wait"];
 }
 ```
