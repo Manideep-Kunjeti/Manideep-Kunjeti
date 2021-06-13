@@ -49,8 +49,10 @@ Manideep = {
 console.log(`Feel free to contribute`);
 ```
   <hr>
+ ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+ ![Dino](htt
   
-  ![image](covers/dino_dark.gif)
+<!--   ![image](covers/dino_dark.gif) -->
   <br>
   <p align="center">
   <strong>Happy Coding</strong> ❤️
