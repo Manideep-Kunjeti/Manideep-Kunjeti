@@ -1,7 +1,10 @@
-<h2> Hi, I'm Manideep! <img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50"></h2>
+<h1 align="center">Hi 👋, I'm Manideep<img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50"></h1>
+<h3 align="center">Web Developer | </h3> 
 <img align='right' src="![image](https://user-images.githubusercontent.com/85476837/121806908-6c93e500-cc6f-11eb-872e-8cd93008e848.png)
 " width="230">
-<p><em>Electronics And Communication Enginner at <a href="https://bmsit.ac.in/">B.M.S Institute of Technology and Management</a><img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></br><br>
+<p><em>  Electronics And Communication Enginner at <a href="https://bmsit.ac.in/">B.M.S Institute of Technology and Management</a><img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></br><br>
+ <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
+<br />
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
@@ -35,4 +38,11 @@ console.log(`Feel free to contribute`);
   <hr>
   
   ![image](covers/dino_dark.gif)
+  <br>
+  <p align="center">
+  <strong>Happy Coding</strong> ❤️
+  </p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
