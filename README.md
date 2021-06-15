@@ -32,7 +32,7 @@
 ```Python
 Manideep = {
   pronouns: "He" / "his";
-  code: [ C, HTML(Begineer) ];
+  code: [ C, HTML(Noob) ];
   hobbies: ["VideoGames", "Music"];
   how-to-reach-me: ["Step 1:Start a Android dev vs Web dev argument"
                 "Step 2: Wait"];
