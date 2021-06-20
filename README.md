@@ -38,7 +38,8 @@ Manideep = {
                 "Step 2: Wait"];
 }
 ```
-![](https://komarev.com/ghpvc/?username=Manideep-Kunjeti)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-Kunjeti&hide=jupyter%20notebook,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://komarev.com/ghpvc/?username=Manideep-Kunjeti)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Manideep-Kunjeti&show_icons=true&theme=gotham" />
 
