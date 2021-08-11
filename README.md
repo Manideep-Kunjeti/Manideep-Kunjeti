@@ -16,7 +16,7 @@
    <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
 </p>
  
-><h2>If you are Intrested in Me</h2>
+><h2>If you are Intrested in Me, then checkout this</h2>
  
  ```Python
 Manideep = {
