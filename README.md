@@ -14,7 +14,7 @@
 * Felt in Love with my Laptop :blue_heart:
 
 <br><br> -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default) -->
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
  <a href="https://github.com/Manideep-Kunjeti">
@@ -38,27 +38,27 @@ Manideep = {
                 "Step 2: Wait"];
 }
 ``` -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-Kunjeti&hide=jupyter%20notebook,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-Kunjeti&hide=jupyter%20notebook,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
  ![](https://komarev.com/ghpvc/?username=Manideep-Kunjeti)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Manideep-Kunjeti&show_icons=true&theme=gotham" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manideep-Kunjeti&theme=tokyonight&stroke=DD2727)](https://git.io/streak-stats)
-  <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">   
+  <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">    -->
 
 ```javascript
 console.log(`Feel free to contribute`);
 ```
-  <hr>
+<!--   <hr> -->
   
-  ![image](dino_dark.gif)
+<!--   ![image](dino_dark.gif)
   <br>
   <p align="center">
   <strong>Happy Coding</strong> ❤️
   </p>
 
  <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
- 
+  -->
 <!--  starts here -->
 <h2 align="center">Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manideep
@@ -73,9 +73,9 @@ console.log(`Feel free to contribute`);
 </p>
  
 ***
- <p align="center">
+<p align="center">
    <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
- </p>
+</p>
  
 ><h2>If you are Intrested in Me</h2>
  
@@ -87,6 +87,20 @@ Manideep = {
                                  "Step 2: Wait"];  //Just Kidding😄
            }
 ```
+
+><h2>Randomly generated Quote</h2>
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
+ 
+><h2>Find me on:</h2>
+
+<div align="center">
+<a href="https://twitter.com/Manideep085"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://www.linkedin.com/in/manideep-k-02a4b0208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://hashnode.com/@Manideep01"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+<a href="https://www.instagram.com/mani_0248/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.hackerrank.com/kunjetimanideep"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</div>
+
 ><h2>GitHub Stats</h2>
 
 ![Manideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manideep-Kunjeti&show_icons=true&theme=radical)
@@ -94,5 +108,4 @@ Manideep = {
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manideep-Kunjeti&theme=dark&stroke=DD2727">
 </p>
-
 
