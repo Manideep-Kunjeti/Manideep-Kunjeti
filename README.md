@@ -15,7 +15,7 @@
 
 <br><br> -->
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default) -->
-<h3 align="center">Connect with me on:</h3>
+<!-- <h3 align="center">Connect with me on:</h3>
 <p align="center">
  <a href="https://github.com/Manideep-Kunjeti">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
@@ -26,7 +26,7 @@
  <a href="https://www.linkedin.com/in/manideep-k-02a4b0208">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- </p>
+ </p> -->
 
 <!-- ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
 ```Python
@@ -46,9 +46,7 @@ Manideep = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manideep-Kunjeti&theme=tokyonight&stroke=DD2727)](https://git.io/streak-stats)
   <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">    -->
 
-```javascript
-console.log(`Feel free to contribute`);
-```
+
 <!--   <hr> -->
   
 <!--   ![image](dino_dark.gif)
@@ -108,4 +106,16 @@ Manideep = {
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manideep-Kunjeti&theme=dark&stroke=DD2727">
 </p>
-
+ 
+><h2>My Blogs</h2>
+ <!-- BLOG-POST-LIST:START -->
+ - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time)
+ <!-- BLOG-POST-LIST:END -->
+---
+<img align="left" alt="Doge" width="" src="tenor.gif" />
+<img align="right" alt="Doge" width="" src="tenor.gif" />
+<p align="center"> 
+   Visitor count<br>
+   <img src="https://profile-counter.glitch.me/Manideep-Kunjeti/count.svg" />
+</p>
+ 
