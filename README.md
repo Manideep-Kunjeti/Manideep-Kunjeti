@@ -1,9 +1,9 @@
-<h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manideep<img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50"></h1>
+<!-- <h1 align="center">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manideep<img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50"></h1>
 <h3 align="center">Engineer | Aspiring Full stack Developer</h3> 
 
 <img align='right' src="![image](https://user-images.githubusercontent.com/85476837/121806908-6c93e500-cc6f-11eb-872e-8cd93008e848.png)" width="230">
-<p><em>  Electronics And Communication Enginner at <a href="https://bmsit.ac.in/">B.M.S Institute of Technology and Management</a><img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></em></br><br>
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
+<p><em>  Electronics And Communication Enginner at <a href="https://bmsit.ac.in/">B.M.S Institute of Technology and Management</a><img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></em></br><br> -->
+<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
 <br /> 
 <h2>🤔 About <br> 
 
@@ -13,7 +13,7 @@
 
 * Felt in Love with my Laptop :blue_heart:
 
-<br><br>
+<br><br> -->
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
@@ -58,5 +58,36 @@ console.log(`Feel free to contribute`);
   </p>
 
  <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ 
+<!--  starts here -->
+<h2 align="center">Hey there
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manideep
+ <img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50">
+</h2>
+ 
+<h3 align="center">Engineer | Aspiring Developer</h3> 
+
+<p align="center">
+ <em>Electronics And Communication Enginner at <a href="https://bmsit.ac.in/">B.M.S Institute of Technology and Management</a>
+ <img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></em>
+</p>
+ 
+<h3>
+
+<p align="center">
+ <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
+<p>
+
+<img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50">If You are more intrested in me...
+</h3>
+ 
+ ```Python
+Manideep = {
+               Pronouns: "He" / "His";
+               Code: [ HTML, CSS, C++, C ];
+               How-To-Reach-Me: ["Step 1:Start a Web Dev vs Android Dev"
+                                 "Step 2: Wait"];
+           }
+```
 
 
