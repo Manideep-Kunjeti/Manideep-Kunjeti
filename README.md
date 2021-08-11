@@ -28,7 +28,7 @@
   </a>
  </p>
 
-### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
+<!-- ### <img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50"> If you are more intrested in me...  
 ```Python
 Manideep = {
   pronouns: "He" / "his";
@@ -37,7 +37,7 @@ Manideep = {
   how-to-reach-me: ["Step 1:Start a Android dev vs Web dev argument"
                 "Step 2: Wait"];
 }
-```
+``` -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-Kunjeti&hide=jupyter%20notebook,css&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
  ![](https://komarev.com/ghpvc/?username=Manideep-Kunjeti)
 <br>
@@ -72,22 +72,21 @@ console.log(`Feel free to contribute`);
  <img src="https://media.giphy.com/media/YS1oEkcJAcq1q/giphy.gif" width="30"></em>
 </p>
  
-<h3>
-
-<p align="center">
- <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
-<p>
-
-<img src="https://media.giphy.com/media/9KCPkAcRqU9j2/giphy.gif" width="50">If You are more intrested in me...
-</h3>
+***
+ <p align="center">
+   <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
+ </p>
+ 
+><h2>If you are Intrested in Me</h2>
  
  ```Python
 Manideep = {
                Pronouns: "He" / "His";
                Code: [ HTML, CSS, C++, C ];
                How-To-Reach-Me: ["Step 1:Start a Web Dev vs Android Dev"
-                                 "Step 2: Wait"];
+                                 "Step 2: Wait"];  //Just Kidding😄
            }
 ```
+><h2>GitHub Stats</h2>
 
 
