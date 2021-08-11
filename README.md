@@ -56,10 +56,12 @@ Manideep = {
  
 ---
  
-<img align="left" alt="Doge" width="" src="dogegif.gif" />
-<img align="right" alt="Doge" width="" src="dogegif.gif" />
+<!-- <img align="left" alt="Doge" width="" src="dogegif.gif" />
+<img align="right" alt="Doge" width="" src="dogegif.gif" /> -->
 <p align="center"> 
    Visitors count :<br>
    <img src="https://profile-counter.glitch.me/Manideep-Kunjeti/count.svg" />
 </p>
+<img align="left" alt="Doge" width="" src="dogegif.gif" />
+<img align="right" alt="Doge" width="" src="dogegif.gif" />
  
