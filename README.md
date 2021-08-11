@@ -71,6 +71,7 @@ Manideep = {
 </p>
  
 ***
+
 <p align="center">
    <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
 </p>
@@ -111,11 +112,13 @@ Manideep = {
  <!-- BLOG-POST-LIST:START -->
  - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time)
  <!-- BLOG-POST-LIST:END -->
+ 
 ---
-<img align="left" alt="Doge" width="" src="tenor.gif" />
-<img align="right" alt="Doge" width="" src="tenor.gif" />
+ 
+<img align="left" alt="Doge" width="" src="dogegif.gif" />
+<img align="right" alt="Doge" width="" src="dogegif.gif" />
 <p align="center"> 
-   Visitor count<br>
+   Visitors count<br>
    <img src="https://profile-counter.glitch.me/Manideep-Kunjeti/count.svg" />
 </p>
  
