@@ -30,7 +30,7 @@ Manideep = {
 ><h2>Randomly generated Quote</h2>
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default)
  
-><h2>Find me on:</h2>
+><h2>Find me on :</h2>
 
 <div align="center">
 <a href="https://twitter.com/Manideep085"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -59,7 +59,7 @@ Manideep = {
 <img align="left" alt="Doge" width="" src="dogegif.gif" />
 <img align="right" alt="Doge" width="" src="dogegif.gif" />
 <p align="center"> 
-   Visitors count<br>
+   Visitors count :<br>
    <img src="https://profile-counter.glitch.me/Manideep-Kunjeti/count.svg" />
 </p>
  
