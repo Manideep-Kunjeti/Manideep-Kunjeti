@@ -13,7 +13,7 @@
 ***
 
 <p align="center">
-   <img height="300px" width="550px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
+   <img height="300px" width="500px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Coding Cat"/>
 </p>
  
 ><h2>If you are Intrested in me, then checkout this👇</h2>
@@ -51,6 +51,7 @@ Manideep = {
  
 ><h2>My Blogs</h2>
  <!-- BLOG-POST-LIST:START -->
+ - [GitHub Series](https://kunjetimanideep.hashnode.dev/series/github-learning)
  - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time)
  <!-- BLOG-POST-LIST:END -->
  
