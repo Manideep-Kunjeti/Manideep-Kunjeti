@@ -57,6 +57,7 @@ Manideep = {
  
 ><h2>My Blogs</h2>
  <!-- BLOG-POST-LIST:START -->
+ - [Get Canva Pro for FREE today](https://kunjetimanideep.hashnode.dev/get-canva-pro-for-free-today)
  - [GitHub Series](https://kunjetimanideep.hashnode.dev/series/github-learning)
  - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time)
  <!-- BLOG-POST-LIST:END -->
