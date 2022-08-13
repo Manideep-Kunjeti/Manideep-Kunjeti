@@ -1,4 +1,4 @@
-<h2 align="center">Hey there
+<!-- <h2 align="center">Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Manideep
  <img src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="50">
 </h2>
@@ -73,3 +73,4 @@ Manideep = {
 <!-- <img align="left" alt="Doge" width="" src="dogegif.gif" />
 <img align="right" alt="Doge" width="" src="dogegif.gif" /> -->
  
+ -->
