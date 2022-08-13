@@ -55,22 +55,22 @@ Manideep = {
    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Manideep-Kunjeti&repo=MC-Bus-Reservation&theme=radical">
   </a> -->
  
-><h2>My Blogs</h2>
+<!-- ><h2>My Blogs</h2>
  <!-- BLOG-POST-LIST:START -->
- - [GitHub Series](https://kunjetimanideep.hashnode.dev/series/github-learning)
+<!--  - [GitHub Series](https://kunjetimanideep.hashnode.dev/series/github-learning)
  - [Get Canva Pro for FREE today](https://kunjetimanideep.hashnode.dev/get-canva-pro-for-free-today)
- - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time)
+ - [This VS Code trick can save your time!!](https://kunjetimanideep.hashnode.dev/this-vs-code-trick-can-save-your-time) -->
  <!-- BLOG-POST-LIST:END -->
  
 ---
  
-<img align="left" alt="Doge" width="" src="dogegif.gif" />
+<!-- <img align="left" alt="Doge" width="" src="dogegif.gif" />
 <img align="right" alt="Doge" width="" src="dogegif.gif" /> 
 <p align="center"> 
    Visitors count :<br>
    <img src="https://profile-counter.glitch.me/Manideep-Kunjeti/count.svg" />
-</p>
+</p> -->
 <!-- <img align="left" alt="Doge" width="" src="dogegif.gif" />
 <img align="right" alt="Doge" width="" src="dogegif.gif" /> -->
  
- -->
+ --> -->
